@@ -1,0 +1,12 @@
+---
+name: abhishek
+age: 25
+working: true
+tasks: 
+  - working
+  - home
+  - gym
+address:
+  - street
+  - city
+  - state
